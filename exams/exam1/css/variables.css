@@ -1,0 +1,133 @@
+:root {
+  --main-color: #7f22fe;
+  --gray-color: oklch(0.446 0.03 256.802);
+  --logo-color: #1d293d;
+  --max-width: 54rem;
+  --p-color: oklch(0.894 0.057 293.283);
+  --blue-color: #4f39f6;
+  --move-color:#9810fa;
+  --location-color:#e60076;
+  --section-bg: #f9fafb;
+}
+
+.height-50{
+  height: 50px;
+}
+.height-60{
+  height: 60px;
+}
+.contact-card-color{
+  background-color: #8221fe;
+}
+.p-12{
+  padding: 12px;
+}
+.bg-main-color{
+  background-color: var(--main-color);
+}
+.price-color{
+  color: oklch(0.551 0.027 264.364);
+}
+.star-color{
+  color: #ffb900;
+}
+.fs-18{
+  font-size: 18px;
+}
+
+.fs-30 {
+  font-size: 30px;
+}
+.fs-12{
+    font-size: .75rem;
+}
+.fs-14{
+  font-size: 14px;
+}
+.p-color {
+  color: var(--p-color);
+}
+.fw-900{
+  font-weight: 900;
+}
+.fs-20{
+  font-size: 20px;
+}
+.logo-color{
+  color: var(--logo-color);
+}
+.height-300{
+  height: 300px;
+}
+.height-40{
+  height: 40px;
+}
+.main-color{
+  color: var(--main-color);
+}
+.bg-green-color{
+  background-color: #00a63e !important;
+}
+.light-green{
+  background-color: #dbfce7;
+}
+.green-color{
+  color: #00a63e !important;
+}
+.brown-color{
+  color: #d08700;
+}
+.blue-color{
+  color: var(--blue-color);
+}
+.blue-icon-color{
+  background-color: var(--blue-color);
+}
+.bg-blue-color{
+  background-color: #e0e7ff;
+}
+.bg-brown-color{
+  background-color: #fef9c2;
+}
+.bg-light-green{
+  background-color: #dbfce7;
+}
+.bg-move{
+  background-color: #f3e8ff;
+}
+.move-color{
+  color: var(--move-color);
+}
+.contact-color{
+  background-color: #a448fd;
+}
+.move-icon-color{
+  background-color: var(--move-color);
+}
+.location-color{
+  color: #e60076;
+}
+.bg-location-color{
+  background-image: linear-gradient(to right ,var(--main-color),#F28582);
+}
+.orange-color{
+  background-color: #e17100 !important;
+}
+.gray-color{
+  color: var(--gray-color);
+}
+.a-color{
+  color: #99a1af;
+}
+.main-bg-color{
+  background-color: #ede9fe;
+}
+.p-12{
+  padding: 12px;
+}
+.h-500{
+height: 450px;
+}
+.transition{
+  transition: 0.3s;
+}
